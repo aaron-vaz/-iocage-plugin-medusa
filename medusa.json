@@ -8,7 +8,8 @@
         "python39",
         "py39-sqlite3",
         "unrar",
-        "libmediainfo"
+        "libmediainfo",
+        "ffmpeg"
     ],
     "properties": {
         "nat": 1,
